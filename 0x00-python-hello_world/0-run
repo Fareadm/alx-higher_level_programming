@@ -1,1 +1,2 @@
-this is a non empty file
+#!/bin/bash
+python3 $PYFILE
